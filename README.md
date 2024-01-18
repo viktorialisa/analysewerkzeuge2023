@@ -69,4 +69,6 @@ Wichtig zu beachten ist, dass die vorliegenden Daten vorläufig sind und Änderu
 ![image](https://github.com/viktorialisa/analysewerkzeuge2023/assets/108334462/dd9ae906-b27a-411e-a2ff-0870f5ddf6e3)
 ![image](https://github.com/viktorialisa/analysewerkzeuge2023/assets/108334462/14bf215e-b557-4a5c-a426-5bff05f7731f)
 
+# Verteilung der Hauptunfallgründe
+![image](https://github.com/viktorialisa/analysewerkzeuge2023/assets/108334462/17bd3fb8-4ada-4934-8cfc-4f0328cb79c8)
 
