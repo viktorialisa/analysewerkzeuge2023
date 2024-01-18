@@ -11,6 +11,12 @@ Die Grundlage für die Erfassung dieser Daten bildet der Polizeibericht MV104-AN
 Wichtig zu beachten ist, dass die vorliegenden Daten vorläufig sind und Änderungen unterliegen können. Diese Aktualisierungen erfolgen auf Grundlage von Überarbeitungen der MV-104AN-Formulare, die auf überarbeiteten Unfalldetails beruhen. Daher ermöglicht diese Datenquelle nicht nur Einblicke in vergangene Verkehrsunfälle, sondern auch eine kontinuierliche Aktualisierung, um mögliche Korrekturen und Ergänzungen widerzuspiegeln.
 
 # Data 
+
+- **Tablename:** MV-Collisions - Crash
+- **Description:** The Motor Vehicle Collisions crash table contains details on the crash event. Each row represents a crash event.
+- **Update Frequency:** Daily
+
+
 | Column Name                    | Description                                                      | Type           |
 |---------------------------------|------------------------------------------------------------------|----------------|
 | CRASH DATE                      | Occurrence date of collision                                     | Date & Time    |
