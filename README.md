@@ -61,5 +61,7 @@ Wichtig zu beachten ist, dass die vorliegenden Daten vorläufig sind und Änderu
 | matplotlib.pyplot (plt) | Erstellung von Diagrammen und Visualisierungen in Python. |  3.7.1       |
 | seaborn (sns)   | Datenvisualisierungsbibliothek auf Basis von matplotlib. |    0.12.2     |
 
+# No. of Crashes per Month
+![image](https://github.com/viktorialisa/analysewerkzeuge2023/assets/108334462/5c7c3a46-e418-41d9-b88f-9990a7aa0ec3)
 
 
