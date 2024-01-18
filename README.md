@@ -44,5 +44,9 @@ Wichtig zu beachten ist, dass die vorliegenden Daten vorläufig sind und Änderu
 | VEHICLE TYPE CODE 5             | Type of vehicle based on the selected vehicle category (ATV, bicycle, car/suv, ebike, escooter, truck/bus, motorcycle, other) | Plain Text     |
 
 
+![image](https://github.com/viktorialisa/analysewerkzeuge2023/assets/108334462/ec36639f-3c38-48be-a9bd-9a054c54a490)![image](https://github.com/viktorialisa/analysewerkzeuge2023/assets/108334462/842dc547-2a3f-4e2e-a03b-3116870a9c7b)
+
+
+
 
 
