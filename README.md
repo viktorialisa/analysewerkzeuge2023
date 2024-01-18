@@ -53,6 +53,13 @@ Wichtig zu beachten ist, dass die vorliegenden Daten vorläufig sind und Änderu
 ![image](https://github.com/viktorialisa/analysewerkzeuge2023/assets/108334462/ec36639f-3c38-48be-a9bd-9a054c54a490)![image](https://github.com/viktorialisa/analysewerkzeuge2023/assets/108334462/842dc547-2a3f-4e2e-a03b-3116870a9c7b)
 
 
+# Packages
+| Package         | Description                                       | Version |
+| --------------- | ------------------------------------------------- | ------- |
+| requests        | Sendet HTTP-Anfragen und empfängt HTTP-Antworten. | 2.31.0        |
+| pandas (pd)     | Mächtige Bibliothek für Datenanalyse und -manipulation. |     1.5.3    |
+| matplotlib.pyplot (plt) | Erstellung von Diagrammen und Visualisierungen in Python. |  3.7.1       |
+| seaborn (sns)   | Datenvisualisierungsbibliothek auf Basis von matplotlib. |    0.12.2     |
 
 
 
