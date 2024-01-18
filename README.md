@@ -57,9 +57,9 @@ Wichtig zu beachten ist, dass die vorliegenden Daten vorläufig sind und Änderu
 | Package         | Description                                       | Version |
 | --------------- | ------------------------------------------------- | ------- |
 | requests        | Sendet HTTP-Anfragen und empfängt HTTP-Antworten. | 2.31.0        |
-| pandas (pd)     | Mächtige Bibliothek für Datenanalyse und -manipulation. |     1.5.3    |
-| matplotlib.pyplot (plt) | Erstellung von Diagrammen und Visualisierungen in Python. |  3.7.1       |
-| seaborn (sns)   | Datenvisualisierungsbibliothek auf Basis von matplotlib. |    0.12.2     |
+| pandas (pd)     | Bibliothek für Datenanalyse und -manipulation. |     1.5.3    |
+| matplotlib.pyplot (plt) | Erstellung von Diagrammen und Visualisierungen  |  3.7.1       |
+| seaborn (sns)   | Datenvisualisierungsbibliothek auf Basis von matplotlib |    0.12.2     |
 
 # No. of Crashes per Year
 ![image](https://github.com/viktorialisa/analysewerkzeuge2023/assets/108334462/5c7c3a46-e418-41d9-b88f-9990a7aa0ec3)
