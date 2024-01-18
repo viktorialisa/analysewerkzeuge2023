@@ -67,4 +67,6 @@ Wichtig zu beachten ist, dass die vorliegenden Daten vorläufig sind und Änderu
 
 # No. of Crashes per Month
 ![image](https://github.com/viktorialisa/analysewerkzeuge2023/assets/108334462/dd9ae906-b27a-411e-a2ff-0870f5ddf6e3)
+![image](https://github.com/viktorialisa/analysewerkzeuge2023/assets/108334462/14bf215e-b557-4a5c-a426-5bff05f7731f)
+
 
